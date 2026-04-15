@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 嗨！我是永航 (HaHa102)
 
-<!--
-**HaHa102/HaHa102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！我目前正在探索和学习现代开发技术，目标是做到 **All in AI**。
 
-Here are some ideas to get you started:
+### 🚀 我的核心技能
+- 🐍 Python
+- 🌐 网络基础 (HCIE 数通认证)
+- 🤖 AI 提示词工程与模型微调
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 我的 GitHub 战绩
+![永航的 GitHub 数据统计](https://github-readme-stats.vercel.app/api?username=HaHa102&show_icons=true&theme=radical)
+
+### 💻 我常用的工具与语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Tools-FF9900?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+*“优先做距离变现最近的事，先跑通流程！”*
