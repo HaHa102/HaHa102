@@ -15,5 +15,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Tools-FF9900?style=for-the-badge&logo=openai&logoColor=white)
 
+## 🚀 我的项目展示
+- **AI 工具箱** — 基于 Hermes Agent 的智能助手
+- **GitHub 课程** — 从零开始的 Git 学习笔记
 ---
 *“优先做距离变现最近的事，先跑通流程！”*
